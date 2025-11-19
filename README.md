@@ -24,19 +24,19 @@ Aplikasi ini dibuat untuk memenuhi tugas mata kuliah **Pemrograman Mobile II**, 
 
 ### 🏠 Home Page
 Menampilkan daftar pizza, pencarian, dan tombol menuju keranjang.  
-assets/images/homepage.jpg
+![Home Page](assets/images/homepage.jpg)
 
 ### 🔍 Detail Page
 Halaman untuk memilih ukuran pizza dan topping tambahan.  
-![Detail Page](images/detailpage.jpg)
+![Detail Page](assets/images/detailpage.jpg)
 
 ### 🛒 Cart Page
 Menampilkan item pesanan, total harga, dan tombol checkout.  
-![Cart Page](images/cartpage.jpg)
+![Cart Page](assets/images/cartpage.jpg)
 
 ### ✅ Success Page
 Halaman konfirmasi pesanan berhasil dilakukan.  
-![Success Page](images/trxpage.jpg)
+![Success Page](assets/images/trxpage.jpg)
 
 ---
 

@@ -44,8 +44,7 @@ Halaman konfirmasi pesanan berhasil dilakukan.
 
 record aplikasi dapat di akses melalui link berikut:
 
-👉 **https://drive.google.com/YOUR-LINK-DI-SINI**  
-*(Ganti dengan link Google Drive kamu sendiri)*
+👉 **https://drive.google.com/file/d/13gjAF2aUXNWgjw_h_HUDweCjBrAhKyoR/view?usp=sharing**  
 
 ---
 
@@ -81,8 +80,6 @@ Digunakan pada:
 
 ### 🧩 3. Penggunaan GridView
 Aplikasi ini **tidak menggunakan GridView**, karena desain daftar pizza menggunakan layout list untuk tampilan lebih sederhana dan fokus pada tiap item.
-
-*(Jika nanti diubah menjadi tampilan kotak, GridView siap diterapkan.)*
 
 ### 🛠️ 4. Custom Widget & Komponen Reusable
 Aplikasi ini juga menerapkan beberapa komponen custom untuk mempercantik tampilan dan menjaga kerapihan kode:

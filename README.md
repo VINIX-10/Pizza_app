@@ -24,7 +24,7 @@ Aplikasi ini dibuat untuk memenuhi tugas mata kuliah **Pemrograman Mobile II**, 
 
 ### 🏠 Home Page
 Menampilkan daftar pizza, pencarian, dan tombol menuju keranjang.  
-![Home Page](images/homepage.jpg)
+assets/images/homepage.jpg
 
 ### 🔍 Detail Page
 Halaman untuk memilih ukuran pizza dan topping tambahan.  

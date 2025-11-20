@@ -42,9 +42,13 @@ Halaman konfirmasi pesanan berhasil dilakukan.
 
 ## 📥 Dokumentasi
 
-record aplikasi dapat di akses melalui link berikut:
+record aplikasi dan laporan dapat di akses melalui link dibawah:
 
+^video
 👉 **https://drive.google.com/file/d/13gjAF2aUXNWgjw_h_HUDweCjBrAhKyoR/view?usp=sharing**  
+
+^laporan
+👉 **https://drive.google.com/drive/folders/1RTc7I41l2PQq_UcXECk2NNXqwZmvLBdA?usp=sharing**
 
 ---
 
